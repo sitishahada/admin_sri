@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = "http://localhost:5000"; // Change this to your deployed backend URL later
+const API_URL = "https://admin-sri.onrender.com"; // Change this to your deployed backend URL later
 
 export const getItems = async () => {
     try {
